@@ -1,0 +1,59 @@
+h1{
+	color: lightgreen;
+	text-align: center;
+}
+
+nav {
+	background-color: blue
+
+}
+
+ul{
+	list-style: none;
+	padding: 20px
+}
+.nav-item{
+	display: inline;
+	margin: 0px 10px;
+
+}
+
+.nav-item a {
+	color: white;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+.nav-item a:hover {
+	color: tan;
+	background-color: navy;
+}
+
+body {
+	background-color: purple;
+}
+
+
+.button {
+	text-decoration: none;
+	color: black;
+	background-color: aqua;
+	border: 1px solid black;
+	border-radius: 15px;
+	padding: 10px;
+	margin: 20px;
+	display: block;
+	width: 100px;
+	text-align: center;
+
+}
+
+.button:hover {
+	opacity: 0.5;
+}
+
+
+
+
+
+
